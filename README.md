@@ -32,6 +32,11 @@ We use Javascript to display the score retrieving from Google firebase.<br />
 </p>
 
 
+### Put google-services into the folder <br />
+
+When create the firebase, remember to download the google-services file and copy it into the folder ./app/<br />
+Change the gradle file  classpath 'com.google.gms:google-services:4.0.1' or you will get error
+
 ### 2019 Nan Ya Chinese New Year Logo Design <br />
 
 <p align="center">
